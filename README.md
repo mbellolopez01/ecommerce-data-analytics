@@ -1,5 +1,5 @@
 # E-Commerce Customer Behavior & Sales Analysis (12M+ Records)
-
+![Dashboard Preview](Dashboard-1.png)
 ## 📌 Project Overview
 
 This project involved the end-to-end processing and analysis of a massive dataset containing over 12 million raw event records from a multi-category e-commerce platform. The primary goal was to architect a data pipeline capable of transforming millions of individual user interactions (views, cart additions, and purchases) into actionable business intelligence to identify conversion bottlenecks and brand performance.
